@@ -14,3 +14,8 @@
 * [Ubuntuでキーバインドを変更する](https://qiita.com/tamayaman/items/f87bbd092702d6c36f8b)
 * [SSHを介してVimを使う人に感動的なESCキーを押すとESCキーが効きつつIMEがオフになる設定(Google日本語入力とVimの相性は最強！)](http://sifue.hatenablog.com/entry/20120411/1334161078)
 * [Linux向けの最強のキーリマッパーを作った](https://k0kubun.hatenablog.com/entry/xkremap)
+
+# Installing pyenv on Ubuntu 18.04
+* [Ubuntu18.04においてpyenvを用いたpythonインストール時に生じたBUILD FAILEDのエラーとその対処](https://qiita.com/yossyA/items/f22e2eea5401b6a8260f)
+* [Pyenvの使い方](https://qiita.com/mogom625/items/b1b673f530a05ec6b423)
+* [pyenv と pyenv-virtualenv で環境構築](https://qiita.com/Kodaira_/items/feadfef9add468e3a85b)
