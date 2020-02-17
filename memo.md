@@ -19,3 +19,6 @@
 * [Ubuntu18.04においてpyenvを用いたpythonインストール時に生じたBUILD FAILEDのエラーとその対処](https://qiita.com/yossyA/items/f22e2eea5401b6a8260f)
 * [Pyenvの使い方](https://qiita.com/mogom625/items/b1b673f530a05ec6b423)
 * [pyenv と pyenv-virtualenv で環境構築](https://qiita.com/Kodaira_/items/feadfef9add468e3a85b)
+
+# Handling Excel files
+* [Excelファイル(～.xls/～.xlsx)をLinuxコンソール上でCSV方式に変換する方法](https://orebibou.com/2016/12/excel%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%EF%BD%9E-xls%EF%BD%9E-xlsx%E3%82%92linux%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E4%B8%8A%E3%81%A7csv%E6%96%B9%E5%BC%8F%E3%81%AB%E5%A4%89%E6%8F%9B/)
