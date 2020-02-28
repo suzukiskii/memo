@@ -28,3 +28,6 @@
 
 # SSH
 * [Ubuntu 18.04 LTS DesktopにSSHサーバ（OpenSSH）をインストールする](https://lab4ict.com/system/archives/1392)
+
+# Ricty font
+* [Rictyのバッククオートを修正する](https://qiita.com/uKLEina/items/ff0877871fc425952b92)
