@@ -30,4 +30,6 @@
 * [Ubuntu 18.04 LTS DesktopにSSHサーバ（OpenSSH）をインストールする](https://lab4ict.com/system/archives/1392)
 
 # Ricty font
+* [プログラミング用フォント Ricty: InconsolataはGoogleサイトからダウンロードが必要](https://rictyfonts.github.io/)
+* [WindowsでRictyを生成するときに、コマンドラインオプションをつける方法（改訂版）](https://mikan.lunarscape.net/2015/06/ricty-option-rewrite.html]
 * [Rictyのバッククオートを修正する](https://qiita.com/uKLEina/items/ff0877871fc425952b92)
