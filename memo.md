@@ -6,6 +6,7 @@
 * [screenの設定ファイルの切り替え](http://screen.clickyourstyle.com/articles/216)
 * [screenコマンドの導入から利用するまでにやったこと](https://rdera.hatenadiary.org/entry/20090609/1244546949)
 * [Linuxのscreenで縦分割にする方法](http://portaltan.hatenablog.com/entry/2015/08/11/162902)
+* [screenの”Cannot open your terminal ‘/dev/pts/0′”対策](https://siguniang.wordpress.com/2012/08/11/screen-and-pseudo-terminal/)
 
 # Changing the keymap of Ubuntu
 * [UbuntuでキーボードのCtrlの位置を変える](https://qiita.com/teppeitherock/items/113be4c5270f1d5e2f4c)
