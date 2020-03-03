@@ -34,3 +34,6 @@
 * [プログラミング用フォント Ricty: InconsolataはGoogleサイトからダウンロードが必要](https://rictyfonts.github.io/)
 * [WindowsでRictyを生成するときに、コマンドラインオプションをつける方法（改訂版）](https://mikan.lunarscape.net/2015/06/ricty-option-rewrite.html]
 * [Rictyのバッククオートを修正する](https://qiita.com/uKLEina/items/ff0877871fc425952b92)
+
+# Zsh
+* [Sharing directory stack with multi sessions: trick#6](https://leahneukirchen.org/blog/archive/2012/02/10-new-zsh-tricks-you-may-not-know.html)
