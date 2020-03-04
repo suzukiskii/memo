@@ -37,3 +37,8 @@
 
 # Zsh
 * [Sharing directory stack with multi sessions: trick#6](https://leahneukirchen.org/blog/archive/2012/02/10-new-zsh-tricks-you-may-not-know.html)
+
+# Shell Script
+* [bashで日付の妥当性をチェックする](http://ryoff.hatenablog.com/entry/20111221/1324469188)
+* [linuxのシェルスクリプトで日付でループする](https://qiita.com/hawaku/items/2f0a8454bbead2f070d2)
+* [シェルスクリプト(bash)のif文とtestコマンド([])自分メモ](https://qiita.com/toshihirock/items/461da0f60f975f6acb10)
