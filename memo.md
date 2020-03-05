@@ -42,3 +42,14 @@
 * [bashで日付の妥当性をチェックする](http://ryoff.hatenablog.com/entry/20111221/1324469188)
 * [linuxのシェルスクリプトで日付でループする](https://qiita.com/hawaku/items/2f0a8454bbead2f070d2)
 * [シェルスクリプト(bash)のif文とtestコマンド([])自分メモ](https://qiita.com/toshihirock/items/461da0f60f975f6acb10)
+
+# Python
+* [複数XSDのSchemaをValidate](https://jhalfmoon.com/dbc/2019/11/08/%E3%83%88%E3%83%9B%E3%83%9B%E3%81%AA%E7%96%91%E5%95%8F15-python%E3%80%81lxml%E3%80%81%E8%A4%87%E6%95%B0xsd%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB/)
+* [PythonでWeb上のファイルをダウンロードする](https://qiita.com/yuukiclass/items/88e9ac6c5a3b5ab56cc4)
+* [urllib.requestモジュールによるWebページの取得 (1/2)](https://www.atmarkit.co.jp/ait/articles/1910/15/news018.html)
+* [Pythonでフォルダ内のファイルリストを取得する](Pythonでフォルダ内のファイルリストを取得する)
+
+# Django
+* [はじめての Django アプリ作成、その 3](https://docs.djangoproject.com/ja/3.0/intro/tutorial03/)
+* [Django 検索機能の基本[ListView]](https://noumenon-th.net/programming/2019/12/18/django-search/)
+* [ページング:DjangoでListViewを用いて検索画面を実装する方法](https://intellectual-curiosity.tokyo/2019/02/27/django%E3%81%A7listview%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6%E6%A4%9C%E7%B4%A2%E7%94%BB%E9%9D%A2%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
