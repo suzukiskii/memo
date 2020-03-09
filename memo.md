@@ -53,3 +53,6 @@
 * [はじめての Django アプリ作成、その 3](https://docs.djangoproject.com/ja/3.0/intro/tutorial03/)
 * [Django 検索機能の基本[ListView]](https://noumenon-th.net/programming/2019/12/18/django-search/)
 * [ページング:DjangoでListViewを用いて検索画面を実装する方法](https://intellectual-curiosity.tokyo/2019/02/27/django%E3%81%A7listview%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6%E6%A4%9C%E7%B4%A2%E7%94%BB%E9%9D%A2%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
+
+# Terminator
+* [Fixing Terminator Tabs Appearance: Using css for gtk](http://blog.nabam.net/workstation/2017/09/15/terminator_tabs/)
